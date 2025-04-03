@@ -1,4 +1,4 @@
-package dev.jaidson;
+package dev.jaidson.domain;
 
 import java.util.Objects;
 
